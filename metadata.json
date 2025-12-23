@@ -1,0 +1,8 @@
+{
+  "name": "XBetaContent AI",
+  "description": "An all-in-one social media management powerhouse. Compose Vlogs, Reels, and text posts with AI assistance, track global and personal analytics, and stay ahead with real-time trend tickers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
